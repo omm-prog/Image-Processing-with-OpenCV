@@ -1,12 +1,17 @@
 # Image Processing with OpenCV
 
-This simple Python script demonstrates basic image processing using the OpenCV library. The script loads an image, displays it, resizes it, and saves the resized image to a new file.
+## Overview
 
-## Getting Started
+This Python script demonstrates basic image processing using the OpenCV library. It loads an image, displays it, resizes it, and saves the resized version. The script serves as a simple example for those interested in getting started with image manipulation using OpenCV.
 
-### Prerequisites
+## Requirements
 
-Make sure you have Python and OpenCV installed on your machine.
+- Python 3.x
+- OpenCV (`pip install opencv-python`)
 
-```bash
-pip install opencv-python
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/opencv-image-processing.git
