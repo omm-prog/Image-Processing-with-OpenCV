@@ -14,7 +14,7 @@ This Python script demonstrates basic image processing using the OpenCV library.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/opencv-image-processing.git
+   git clone https://github.com/omm-prog/Image-Processing-with-OpenCV
 
    cd opencv-image-processing
    
